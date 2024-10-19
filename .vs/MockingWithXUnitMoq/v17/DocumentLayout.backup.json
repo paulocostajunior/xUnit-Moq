@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Code\\DotNet\\MockingWithXUnitMoq\\MockingWithXUnitMoq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{742828C9-B783-47E6-AB66-338F4AD78A8E}|MockingWithXXUnitMoq.Tests\\MockingWithXXUnitMoq.Tests.csproj|c:\\code\\dotnet\\mockingwithxunitmoq\\mockingwithxunitmoq\\mockingwithxxunitmoq.tests\\creditcardapplicationevaluatorshould.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{742828C9-B783-47E6-AB66-338F4AD78A8E}|MockingWithXXUnitMoq.Tests\\MockingWithXXUnitMoq.Tests.csproj|solutionrelative:mockingwithxxunitmoq.tests\\creditcardapplicationevaluatorshould.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A1A4C7-2A05-4B66-9C5C-FBF175F4A5A2}|MockingWithXUnitMoq\\MockingWithXUnitMoq.csproj|c:\\code\\dotnet\\mockingwithxunitmoq\\mockingwithxunitmoq\\mockingwithxunitmoq\\fraudlookup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A1A4C7-2A05-4B66-9C5C-FBF175F4A5A2}|MockingWithXUnitMoq\\MockingWithXUnitMoq.csproj|solutionrelative:mockingwithxunitmoq\\fraudlookup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A1A4C7-2A05-4B66-9C5C-FBF175F4A5A2}|MockingWithXUnitMoq\\MockingWithXUnitMoq.csproj|c:\\code\\dotnet\\mockingwithxunitmoq\\mockingwithxunitmoq\\mockingwithxunitmoq\\creditcardapplicationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A1A4C7-2A05-4B66-9C5C-FBF175F4A5A2}|MockingWithXUnitMoq\\MockingWithXUnitMoq.csproj|solutionrelative:mockingwithxunitmoq\\creditcardapplicationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A1A4C7-2A05-4B66-9C5C-FBF175F4A5A2}|MockingWithXUnitMoq\\MockingWithXUnitMoq.csproj|c:\\code\\dotnet\\mockingwithxunitmoq\\mockingwithxunitmoq\\mockingwithxunitmoq\\creditcardapplicationdecision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A1A4C7-2A05-4B66-9C5C-FBF175F4A5A2}|MockingWithXUnitMoq\\MockingWithXUnitMoq.csproj|solutionrelative:mockingwithxunitmoq\\creditcardapplicationdecision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A1A4C7-2A05-4B66-9C5C-FBF175F4A5A2}|MockingWithXUnitMoq\\MockingWithXUnitMoq.csproj|c:\\code\\dotnet\\mockingwithxunitmoq\\mockingwithxunitmoq\\mockingwithxunitmoq\\frequentlyflyernumbervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A1A4C7-2A05-4B66-9C5C-FBF175F4A5A2}|MockingWithXUnitMoq\\MockingWithXUnitMoq.csproj|solutionrelative:mockingwithxunitmoq\\frequentlyflyernumbervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A1A4C7-2A05-4B66-9C5C-FBF175F4A5A2}|MockingWithXUnitMoq\\MockingWithXUnitMoq.csproj|c:\\code\\dotnet\\mockingwithxunitmoq\\mockingwithxunitmoq\\mockingwithxunitmoq\\ifrequentlyflyernumbervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A1A4C7-2A05-4B66-9C5C-FBF175F4A5A2}|MockingWithXUnitMoq\\MockingWithXUnitMoq.csproj|solutionrelative:mockingwithxunitmoq\\ifrequentlyflyernumbervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A1A4C7-2A05-4B66-9C5C-FBF175F4A5A2}|MockingWithXUnitMoq\\MockingWithXUnitMoq.csproj|c:\\code\\dotnet\\mockingwithxunitmoq\\mockingwithxunitmoq\\mockingwithxunitmoq\\validationmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A1A4C7-2A05-4B66-9C5C-FBF175F4A5A2}|MockingWithXUnitMoq\\MockingWithXUnitMoq.csproj|solutionrelative:mockingwithxunitmoq\\validationmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 176,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 540,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreditCardApplicationDecision.cs",
+              "DocumentMoniker": "C:\\Code\\DotNet\\MockingWithXUnitMoq\\MockingWithXUnitMoq\\MockingWithXUnitMoq\\CreditCardApplicationDecision.cs",
+              "RelativeDocumentMoniker": "MockingWithXUnitMoq\\CreditCardApplicationDecision.cs",
+              "ToolTip": "C:\\Code\\DotNet\\MockingWithXUnitMoq\\MockingWithXUnitMoq\\MockingWithXUnitMoq\\CreditCardApplicationDecision.cs",
+              "RelativeToolTip": "MockingWithXUnitMoq\\CreditCardApplicationDecision.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:53:54.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FraudLookup.cs",
+              "DocumentMoniker": "C:\\Code\\DotNet\\MockingWithXUnitMoq\\MockingWithXUnitMoq\\MockingWithXUnitMoq\\FraudLookup.cs",
+              "RelativeDocumentMoniker": "MockingWithXUnitMoq\\FraudLookup.cs",
+              "ToolTip": "C:\\Code\\DotNet\\MockingWithXUnitMoq\\MockingWithXUnitMoq\\MockingWithXUnitMoq\\FraudLookup.cs",
+              "RelativeToolTip": "MockingWithXUnitMoq\\FraudLookup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:51:39.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreditCardApplicationEvaluatorShould.cs",
+              "DocumentMoniker": "C:\\Code\\DotNet\\MockingWithXUnitMoq\\MockingWithXUnitMoq\\MockingWithXXUnitMoq.Tests\\CreditCardApplicationEvaluatorShould.cs",
+              "RelativeDocumentMoniker": "MockingWithXXUnitMoq.Tests\\CreditCardApplicationEvaluatorShould.cs",
+              "ToolTip": "C:\\Code\\DotNet\\MockingWithXUnitMoq\\MockingWithXUnitMoq\\MockingWithXXUnitMoq.Tests\\CreditCardApplicationEvaluatorShould.cs",
+              "RelativeToolTip": "MockingWithXXUnitMoq.Tests\\CreditCardApplicationEvaluatorShould.cs",
+              "ViewState": "AgIAANIAAAAAAAAAAAAUwPEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:00:53.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrequentlyFlyerNumberValidator.cs",
+              "DocumentMoniker": "C:\\Code\\DotNet\\MockingWithXUnitMoq\\MockingWithXUnitMoq\\MockingWithXUnitMoq\\FrequentlyFlyerNumberValidator.cs",
+              "RelativeDocumentMoniker": "MockingWithXUnitMoq\\FrequentlyFlyerNumberValidator.cs",
+              "ToolTip": "C:\\Code\\DotNet\\MockingWithXUnitMoq\\MockingWithXUnitMoq\\MockingWithXUnitMoq\\FrequentlyFlyerNumberValidator.cs",
+              "RelativeToolTip": "MockingWithXUnitMoq\\FrequentlyFlyerNumberValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:04:30.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ValidationMode.cs",
+              "DocumentMoniker": "C:\\Code\\DotNet\\MockingWithXUnitMoq\\MockingWithXUnitMoq\\MockingWithXUnitMoq\\ValidationMode.cs",
+              "RelativeDocumentMoniker": "MockingWithXUnitMoq\\ValidationMode.cs",
+              "ToolTip": "C:\\Code\\DotNet\\MockingWithXUnitMoq\\MockingWithXUnitMoq\\MockingWithXUnitMoq\\ValidationMode.cs",
+              "RelativeToolTip": "MockingWithXUnitMoq\\ValidationMode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:01:54.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreditCardApplicationEvaluator.cs",
+              "DocumentMoniker": "C:\\Code\\DotNet\\MockingWithXUnitMoq\\MockingWithXUnitMoq\\MockingWithXUnitMoq\\CreditCardApplicationEvaluator.cs",
+              "RelativeDocumentMoniker": "MockingWithXUnitMoq\\CreditCardApplicationEvaluator.cs",
+              "ToolTip": "C:\\Code\\DotNet\\MockingWithXUnitMoq\\MockingWithXUnitMoq\\MockingWithXUnitMoq\\CreditCardApplicationEvaluator.cs",
+              "RelativeToolTip": "MockingWithXUnitMoq\\CreditCardApplicationEvaluator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T14:40:40.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFrequentlyFlyerNumberValidator.cs",
+              "DocumentMoniker": "C:\\Code\\DotNet\\MockingWithXUnitMoq\\MockingWithXUnitMoq\\MockingWithXUnitMoq\\IFrequentlyFlyerNumberValidator.cs",
+              "RelativeDocumentMoniker": "MockingWithXUnitMoq\\IFrequentlyFlyerNumberValidator.cs",
+              "ToolTip": "C:\\Code\\DotNet\\MockingWithXUnitMoq\\MockingWithXUnitMoq\\MockingWithXUnitMoq\\IFrequentlyFlyerNumberValidator.cs",
+              "RelativeToolTip": "MockingWithXUnitMoq\\IFrequentlyFlyerNumberValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T14:39:29.318Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
